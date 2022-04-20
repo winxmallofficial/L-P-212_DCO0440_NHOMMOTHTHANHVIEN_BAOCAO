@@ -1,0 +1,100 @@
+.map {
+    width: 100%;
+    height: 300px;
+    margin: 0em;
+}
+
+.nav section.formlienhe {
+    background-color: white;
+    overflow: hidden;
+    margin: -12% 10% 0 10%;
+    float: right;
+    border-radius: 5px;
+    padding: 1em 1em 1em 1em;
+    width: 56%;
+}
+
+.row section.lienhe {
+    background-color: white;
+    overflow: hidden;
+    margin: 0 1% 0 10%;
+    float: top;
+    padding: 0.3em 0em 0.3em 0em;
+    width: 20%;
+}
+
+.row section.lienhe .sanpham {
+    margin-top: -0.2em;
+    padding: 0.5em 0em;
+    background-color: #591e5d;
+    box-shadow: 1px 1px 0.5px gray;
+    width: 100%;
+}
+
+.row section.lienhe label a {
+    color: white;
+    font-weight: 600;
+}
+
+.row section.lienhe b {
+    font-family: black;
+}
+
+.row section.lienhe ul a li {
+    list-style: none;
+    padding: 0.5em 0em;
+    color: #591e5d;
+}
+
+.row section.lienhe ul a li:hover {
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px gray;
+}
+
+.formlienhe .lienhe label {
+    list-style: none;
+    padding: 0.5em 0em;
+    color: #591e5d;
+}
+
+.formlienhe input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #591e5d;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+.formlienhe input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.formlienhe input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.formlienhe .btn {
+    background-color: #591e5d;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+.formlienhe .btn:hover {
+    opacity: 1;
+}

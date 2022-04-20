@@ -1,0 +1,102 @@
+.chitiet {
+    background-color: white;
+    margin-top: -58%;
+}
+
+.chitietsanpham {
+    width: 100%;
+    margin-left: auto;
+    margin-right: 1px;
+    padding-left: 10%;
+}
+
+.thongtinchitiet {
+    width: 30%;
+    float: left;
+    margin-left: 1px;
+    margin-right: auto;
+    padding-top: 5%;
+}
+
+.thongtinchitiet .gioithieusanpham p i.giagoc {
+    font-size: 0.8em;
+    font-weight: 600;
+    color: black;
+    opacity: 50%;
+    text-decoration: line-through;
+}
+
+.thongtinchitiet .gioithieusanpham p i.khuyenmai {
+    font-size: 0.6em;
+    font-weight: 600;
+    color: black;
+    opacity: 50%;
+}
+
+.thongtinchitiet .gioithieusanpham p b.giaban {
+    font-size: 1.6em;
+    font-weight: 600;
+    color: #FF315E;
+}
+
+.thongtinsanpham {
+    margin-top: 0em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
+    background-color: white;
+}
+
+.thongtinsanpham label p {
+    font-size: 1em;
+    color: black;
+    font-weight: 300;
+}
+
+.thongtinsanpham label p.diachigiaohang:hover {
+    box-shadow: 1px 1px 2px #F3F2F2;
+    text-shadow: 2px 2px 5px #FF8000;
+}
+
+.nav section.slideshow {
+    font-size: 1.2em;
+    color: #8F659D;
+}
+
+.nav section.slideshow a {
+    color: red;
+    font-weight: 300;
+}
+
+.mainimg {
+    background-color: white;
+    width: 49%;
+    margin-left: auto;
+    margin-right: 2em;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.mainimg img {
+    max-width: 400px;
+    min-width: 100px;
+    max-height: 500px;
+    min-height: 500px;
+    padding-top: 0%;
+    padding-right: 25%;
+}
+
+.subimg {
+    background-color: white;
+    float: left;
+    width: 20%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    border: 1px solid #A4EEF7;
+}
+
+.subimg img {
+    max-width: 150px;
+    min-width: 150px;
+}
+
+.subimg img:hover {
+    border: 1px solid red;
+}

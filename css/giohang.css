@@ -1,0 +1,46 @@
+.giohang{
+	
+	
+	float: none;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+.spgiohang{
+	
+}
+
+.nav section.slideshow .giohang .spgiohangimg img{
+	width: 12%;
+	float: left;
+	
+}
+
+.nav section.slideshow .giohang .spgiohanginfo {
+	
+	float: left;
+	padding: 1em 1em 1em 1em ;
+	width: 30%;
+}
+
+.nav section.slideshow .giohang .spgiohanggiaban {
+	
+	float: left;
+	padding: 1em 1em 1em 1em ;
+	font-size: 1em;
+	font-weight: 600;
+	color: #FF315E;
+	
+}
+
+.nav section.slideshow .giohang .spgiohangsoluong {
+	
+	float: left;
+	padding: 1em 1em 1em 1em ;
+
+}
+
+.nav section.slideshow .giohang .spgiohangxoa {
+	
+	padding: 1em 1em 1em 1em ;
+	
+}

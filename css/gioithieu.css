@@ -1,0 +1,54 @@
+.pluginfacebook {
+    margin: 0 10% 0 10%;
+    width: 20%;
+}
+
+.nav section.formlienhe {
+    background-color: white;
+    overflow: hidden;
+    margin: -48.5% 10% 0 10%;
+    float: right;
+    border-radius: 5px;
+    padding: 1em 1em 1em 1em;
+    width: 56%;
+}
+
+.gioithieutrai {
+    float: left;
+    width: 29%;
+}
+
+.gioithieuphai {
+    width: 69%;
+    float: right;
+}
+
+.gioithieuphai p {
+    color: black;
+    padding: 0;
+}
+
+.gioithieuphai text {
+    color: black;
+    margin: 2em 2em 2em 2em;
+    padding: 2em 2em 2em 2em;
+}
+
+.gioithieuduoi {
+    background-color: #CCCCFF;
+    float: right;
+    width: 58.5%;
+    height: 10%;
+    margin-top: 0.2em;
+    margin-right: 10%;
+    border-radius: 3em;
+    text-decoration: none;
+    font-size: 1em;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+hr {
+    float: left;
+}
